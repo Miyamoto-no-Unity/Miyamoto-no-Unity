@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miyamoto-no-Unity
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in gamedev, gamedesign, music, etc
 - 🌱 I’m currently learning C#, Unity3D
 - 📫 How to reach me? Also, you can text me in telegram @meyamot0
